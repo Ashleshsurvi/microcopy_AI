@@ -3,7 +3,7 @@ import MicrocopyGenerator from './components/MicrocopyGenerator';
 
 /**
  * Main App component
- * Renders the Microcopy Generator application
+ * Renders the Microcopy Generator application.
  */
 function App() {
   return <MicrocopyGenerator />;

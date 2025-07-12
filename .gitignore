@@ -5,9 +5,8 @@ __pycache__/
 *.env
 *.sqlite3
 
-# Node.js
+# Node
 node_modules/
-build/
 
 # macOS
 .DS_Store
@@ -15,9 +14,9 @@ build/
 # VSCode
 .vscode/
 
-# Chrome extension secrets
+# Chrome Extension secrets
 chromeextension/config.js
 
-# Environment files
+# Env files
 .env
 .env.*
