@@ -1,0 +1,51 @@
+body {
+  background-color: lch(89.37% 12.05 227.3);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  width: 300px;
+}
+
+textarea, select, button {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.result {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #d1d5db;
+}
+
+.result:last-child {
+  border-bottom: none;
+}
+
+.result-text {
+  flex: 1;
+  word-break: break-word;
+  font-size: 14px;
+  color: #111827;
+  margin-right: 8px;
+}
+
+.copy-icon {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #6b7280;
+  transition: color 0.2s ease;
+}
+
+.copy-icon:hover {
+  color: #374151;
+}
+
+.copy-icon svg {
+  width: 16px;
+  height: 16px;
+}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.env
+*.sqlite3
+
+# Node.js
+node_modules/
+build/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Chrome extension secrets
+chromeextension/config.js
+
+# Environment files
+.env
+.env.*
