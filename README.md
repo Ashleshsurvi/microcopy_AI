@@ -1,4 +1,4 @@
-📝 Microcopy Generator 📝
+📝 ***Microcopy Generator*** 📝
 
 🎯 **Generate short microcopy variations using AI.**
 
