@@ -1,6 +1,6 @@
-📝 ***Microcopy Generator*** 📝
+## 📝 Microcopy Generator 📝
 
-🎯 **Generate short microcopy variations using AI.**
+## 🎯 Generate short microcopy variations using AI.
 
 This monorepo includes:
 
@@ -10,12 +10,7 @@ This monorepo includes:
 
 ## 📂 Folder Structure
 
-microcopy/
-  backend/
-  frontend/
-  chromeextension/
-  .gitignore
-  README.md
+**MICROCOPY** is a main folder which contains **microcopy_backend, microcopy_frontend, microcopy_chromeext, .gitignore, README.md** folders and files
 
 ## 🚀 Quick Start
 Follow the steps below to get the project running locally.
